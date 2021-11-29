@@ -26,6 +26,9 @@ Using MongoDB (NoSQL), Express.js, IndexedDB, Service Workers, and a Web Manifes
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/82800409/143961227-c8472db2-18e8-42a7-a273-32f765e3672b.png)
+
+
 ## Built-With
 
 MongoDB (NoSQL), Express.js, IndexedDB, Service Workers, and Web Manifest.
@@ -54,6 +57,8 @@ This project is licensed under the MIT license.
 If you have any questions contact me directly at jeremy.mcguirk@gmail.com. You can find more of my work at [Github](https://github.com/Jeremymcg88).
 
 ## Deployment
+
+https://immense-coast-59804.herokuapp.com/
 
 ## Repository
 
