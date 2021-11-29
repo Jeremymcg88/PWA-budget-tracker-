@@ -24,11 +24,11 @@ Using MongoDB (NoSQL), Express.js, IndexedDB, Service Workers, and a Web Manifes
 
 * [Repository](#repository)
 
-## Mock-Up
+## Images
 
 ## Built-With
 
-MongoDB (NoSQL), Express.js, IndexedDB, Service Workers, and Web Manifest
+MongoDB (NoSQL), Express.js, IndexedDB, Service Workers, and Web Manifest.
 
 ## Installation
 
@@ -40,6 +40,7 @@ npm i
 
 To use this application, run the following commands:
 ```md
+
 npm start
 
 navigate to localhost:3001 in your browser
@@ -49,6 +50,8 @@ navigate to localhost:3001 in your browser
 This project is licensed under the MIT license.
 
 ## Questions
+
+If you have any questions contact me directly at jeremy.mcguirk@gmail.com. You can find more of my work at [Github](https://github.com/Jeremymcg88).
 
 ## Deployment
 
